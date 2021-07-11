@@ -48,6 +48,8 @@
   </a>
 </p>
 
+<br />
+
 <!-- GitHub Contribution Snake
 <hr />
 <p align="center">
