@@ -1,6 +1,6 @@
 <!-- README Intro Section -->
 <p align="center">
-  <img width="1000px" src="https://user-images.githubusercontent.com/15948664/125180599-69820b00-e1c1-11eb-9d38-f538d5acf280.png">
+  <img width="1000px" src="https://user-images.githubusercontent.com/15948664/125185449-7ebf5f80-e1ea-11eb-8178-4f2f625f097d.png">
 </p>
 <hr />
 <!-- End of Intro -->
