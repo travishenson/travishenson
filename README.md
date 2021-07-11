@@ -20,7 +20,6 @@
   <br />
 </div>
 
-<hr />
 <br />
 
 <h2 align="center">Some of My Preferred Tools and Technologies</h2>
@@ -52,8 +51,8 @@
 <br />
 
 <!-- GitHub Contribution Snake -->
-<hr />
+<h3 align="center">My GitHub Contributions</h3>
 <p align="center">
   <img width="85%" src="https://raw.githubusercontent.com/travishenson/travishenson/output/github-contribution-grid-snake.svg">
-  <h5 align="center">(Credit: <a href="https://github.com/Platane/snk">Platane's snk repo</a>)
 </p>
+<h5 align="center">(Credit: <a href="https://github.com/Platane/snk">Platane's snk repo</a>)
