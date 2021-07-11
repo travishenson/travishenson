@@ -9,12 +9,12 @@
 
 <div max-width="50px">
   <br />
-  <h2 align="center">I'm a JavaScript-focused full-stack developer.</h2> <br />
-  <h3 align="center" font-style="italic">
+  <h3 align="center">I'm a JavaScript-focused full-stack developer.</h3>
+  <h4 align="center" font-style="italic">
     <em>
       I'm currently under contract as a Web Engineer building and maintaining <a href="https://getter.com.au">Getter</a>. <br /> (Working alongside the wonderfully-talented <a href="https://planes.studio/">Planes Studio</a>)
     </em>
-  </h3>
+  </h4>
   <br />
 </div>
 <hr />
