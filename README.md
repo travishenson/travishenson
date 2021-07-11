@@ -48,11 +48,9 @@
   </a>
 </p>
 
-<br />
-
-<!-- GitHub Contribution Snake -->
-<h3 align="center">My GitHub Contributions</h3>
+<!-- GitHub Contribution Snake
+<hr />
 <p align="center">
   <img width="85%" src="https://raw.githubusercontent.com/travishenson/travishenson/output/github-contribution-grid-snake.svg">
-</p>
-<h5 align="center">(Credit: <a href="https://github.com/Platane/snk">Platane's snk repo</a>)
+  <h5 align="center">(Credit: <a href="https://github.com/Platane/snk">Platane's snk repo</a>)
+</p> -->
