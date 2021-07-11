@@ -1,7 +1,11 @@
-## Hello there! 👋
+<!-- README Intro Section -->
+<p align="center">
+  <img width="1000px" src="https://user-images.githubusercontent.com/15948664/125180599-69820b00-e1c1-11eb-9d38-f538d5acf280.png">
+</p>
+<hr />
+<!-- End of Intro -->
 
-## My name is Travis Henson, a JavaScript developer currently based in Bowling Green, KY.
-
-### I'm in the process of cleaning up and refreshing my projects and profiles, so things may look a little dusty at this time.
-
-![Snake animation](https://raw.githubusercontent.com/travishenson/travishenson/output/github-contribution-grid-snake.svg)
+<!-- GitHub Contribution Snake -->
+<p align="center">
+  <img width="85%" src="https://raw.githubusercontent.com/travishenson/travishenson/output/github-contribution-grid-snake.svg">
+</p>
