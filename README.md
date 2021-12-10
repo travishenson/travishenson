@@ -14,7 +14,7 @@
   <h3 align="center">I'm a JavaScript-focused full-stack developer.</h3>
   <h3 align="center" font-style="italic">
     <em>
-      I'm currently under contract as a Web Engineer building and maintaining <a href="https://getter.com.au">Getter</a>. <br /> (Working alongside the wonderfully-talented <a href="https://planes.studio/">Planes Studio</a>)
+      I'm currently under contract as a Web Engineer building and maintaining <a href="https://getter.com.au">Getter</a>.
     </em>
   </h3>
   <br />
