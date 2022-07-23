@@ -37,9 +37,6 @@
 
 <h2 align="center">Connect with Me on Socials</h2>
 <p align="center">
-  <a href="https://instagram.com/travishenson.js">
-    <img alt="Instagram" src="https://img.shields.io/badge/@travishenson.js-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/travisghenson">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
